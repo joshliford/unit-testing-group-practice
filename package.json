@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-group-practice",
+  "version": "1.0.0",
+  "description": "This is the README.md file! I, as the presenter, will fill it with content!",
+  "main": "sharing-task.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshliford/unit-testing-group-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshliford/unit-testing-group-practice/issues"
+  },
+  "homepage": "https://github.com/joshliford/unit-testing-group-practice#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
